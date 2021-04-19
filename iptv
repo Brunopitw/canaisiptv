@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/litoral-news-1.png" group-title="Cabo Frio", Rede Litoral News
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/cabo-frio-tv-2.png" group-title="Cabo Frio", Canal 10
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/chunklist_w90691042.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/jovem-tv.png" group-title="Cabo Frio", Jovem TV
+http://177.130.81.30:8777/live/app-jovem-tv/yUmRB2uE2B/24.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70e828fbda2a612c958bbeba041ce960.jpg" group-title="Bregas", Tv Destaque Nacional
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunklist_w2078143121.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Retrô", Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w954749202.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Retrô", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1240330519.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Retrô", Tv Aracati Ceará
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title="Retrô", Tv Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w136457907.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/deaee7a4d7ef1c38e84da23cfeee16ff.png" group-title="Retrô", Retro Cartoon 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w242815015.m3u8
